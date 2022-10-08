@@ -1,2 +1,2 @@
-# musa_public_bot
-A simple ticket bot for everyone.
+# Musa Bot
+Um simple bot de ticket para a loja da Musa
